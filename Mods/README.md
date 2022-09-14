@@ -18,6 +18,6 @@ like so:
 
 | Creator | Mod title | Description |
 | --- | --- | --- |
-|Cova|[Nema_17_Z_Motor_Mount](Cova/MeshSkirts) | Tweaked skirt files with extra geometry embedded in each STL for a print-in-place mesh, and optimized for dual-color prints.
+|Cova|[Meshified Skirts](Cova/MeshSkirts) | Tweaked skirt files with extra geometry embedded in each STL for a print-in-place mesh, and optimized for dual-color prints.
 ---
  
